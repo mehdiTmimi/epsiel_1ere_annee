@@ -1,0 +1,23 @@
+remarque generale: 
+-le html ne prend pas en consideration
+les retours a la ligne
+- toues les espaces sonsecutifs ils seront 
+remplacés par un seul espace 
+- <br> permet de retournir à la ligne
+-- les titres
+h1,h2....h6
+-- paragraphe
+p
+-- image
+img
+--liste
+ol,ul,li
+-- liens(ancres)
+a
+--tableaux
+table,thead,tbody,tfooter, tr, th,td
++ nouveautes du HTML5
+=> semantiques
+div,span
+
++ : header, footer, main, section, article...
